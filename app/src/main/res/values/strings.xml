@@ -9,4 +9,18 @@
 
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="titulo_agregar">AGREGAR CARROS</string>
+    <string name="placa">Placa</string>
+    <string name="marca">Marca</string>
+    <string name="color">Color</string>
+    <string name="boton_guardar">Guardar</string>
+    <string name="boton_limpiar">Limpiar</string>
+    <string name="mensaje_guardado_correcto">Carro guardada Exitosamente</string>
+    <string name="titulo_detalle">DETALLE CARRO</string>
+    <string name="etiqueta_boton_eliminar">Eliminar</string>
+    <string name="titulo_eliminar_carro">Eliminar Carro</string>
+    <string name="pregunta_mensaje_eliminar">¿Está seguro que desea eliminar a este carro?</string>
+    <string name="opcion_si">Si</string>
+    <string name="opcion_no">No</string>
+    <string name="titulo_ventana_seleccionar_foto">Seleccione la foto</string>
 </resources>
